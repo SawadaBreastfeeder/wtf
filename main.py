@@ -236,7 +236,7 @@ def rename_file(update, context):
 
 # Create an instance of the Telegram Updater
 
-updater = Updater(token='YOUR_BOT_TOKEN', use_context=True)
+updater = Updater(token='6174260573:AAHPQe3TgWw8CmAjFXdKtM7rGl6oxmv_Tj4', use_context=True)
 
 # Get the dispatcher to register handlers
 
