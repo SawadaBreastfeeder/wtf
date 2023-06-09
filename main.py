@@ -250,7 +250,7 @@ def main():
 
     # Set up the Telegram bot
 
-    updater = Updater(token=os.environ.get("TELEGRAM_BOT_TOKEN"), use_context=True)
+    updater = Updater(token=os.environ.get("6174260573:AAHPQe3TgWw8CmAjFXdKtM7rGl6oxmv_Tj4"), use_context=True)
 
     dispatcher = updater.dispatcher
 
